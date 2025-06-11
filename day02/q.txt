@@ -1,0 +1,1171 @@
+lification of Welding Procedures with Filler Metal Additions  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.1
+Procedure Qualification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.2
+Record  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.3
+Welding Procedure Specification  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+5.4
+Essential Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+5.5
+Welding of Test Jointsâ€”Butt Welds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+5.6
+Testing of Welded Jointsâ€”Butt Welds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+Design and Preparation of a Joint for Production Welding . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+7.1
+General . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+Mechanized Welding with Filler Metal Additions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+12.1 Acceptable Processes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+12.2 Procedure Qualification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+12.3 Record  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+12.4 Welding Procedure Specification  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+12.5 Essential Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+12.6 Qualification of Welding Equipment and Operators . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+12.7 Records of Qualified Operators. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+12.8 Inspection ad Testing of Production Welds. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+12.9 Acceptance Standards for NDT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+12.10 Repair and Removal of Defects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+12.11 Radiographic Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+12.12 Ultrasonic Testing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 71<<PARAGRAPH_END>>
+<<PARAGRAPH>>13
+Automatic Welding Without Filler Metal Additions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+13.1 Acceptable Processes  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+13.2 Procedure Qualification . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72
+13.3 Record  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+13.4 Welding Procedure Specification  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+13.5 Essential Variables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+13.6 Qualification of Equipment and Operators. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+13.7 Records of Qualified Operators. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+13.8 Quality Assurance of Production Welds. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77<<PARAGRAPH_END>>
+<<PARAGRAPH>>vi<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_7>>
+<<HEADING level=3>>Contents<<HEADING_END>>
+<<PARAGRAPH>>Page<<PARAGRAPH_END>>
+<<PARAGRAPH>>13.9 Acceptance Standards for NDT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+13.10 Repair and Removal of Defects . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 78
+13.11 Radiographic Procedure  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79<<PARAGRAPH_END>>
+<<HEADING level=3>>Annex A  (normative)  Alternative Acceptance Standards for Girth Welds . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80<<HEADING_END>>
+<<HEADING level=3>>5.3.2.12 Cleaning and/or Grinding<<HEADING_END>>
+<<PARAGRAPH>>The specification shall indicate whether power tools or hand tools are to be used for cleaning, grinding, or both.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2.13 Preheat and Postweld Heat Treatment (PWHT)<<HEADING_END>>
+<<PARAGRAPH>>Preheat and PWHT shall be as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) for preheat, the methods, minimum temperature at the start of the weld, and minimum ambient temperature below
+which preheat is required shall be specified;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) for PWHT, the methods, minimum and maximum temperature, time at temperature, and temperature control
+methods for PWHT shall be specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2.14 Shielding Gas and Flow Rate<<HEADING_END>>
+<<PARAGRAPH>>The composition of the shielding gas and the range of flow rates shall be designated.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2.15 Shielding Flux<<HEADING_END>>
+<<PARAGRAPH>>The type of shielding flux shall be designated.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2.16 Speed of Travel<<HEADING_END>>
+<<PARAGRAPH>>The range for speed of travel, in in. (mm) per minute, shall be specified for each pass.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.3.2.17 Method of Cooling After Welding<<HEADING_END>>
+<<PARAGRAPH>>If forced cooling is to be used, the specification shall designate the type of cooling after welding, such as forced
+cooling with water, as well as the maximum metal temperature at which forced cooling is applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4 Essential Variables<<HEADING_END>>
+<<HEADING level=3>>5.4.1 General<<HEADING_END>>
+<<PARAGRAPH>>A welding procedure shall be reestablished as a new welding procedure specification and shall be completely
+requalified when any of the essential variables listed in 5.4.2 are changed. Changes other than those given in 5.4.2
+may be made in the procedure without the need for requalification, provided the welding procedure specification is
+revised to show the changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2 Changes Requiring Requalification<<HEADING_END>>
+<<HEADING level=3>>5.4.2.1 Welding Process or Method of Application<<HEADING_END>>
+<<PARAGRAPH>>A change from the welding process or method of application established in the welding procedure specification (see
+5.3.2.1) constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.2 Base Material<<HEADING_END>>
+<<PARAGRAPH>>A change in base material constitutes an essential variable. When welding materials of two separate material groups,
+the procedure for the higher strength group shall be used. For the purposes of this standard, all materials shall be
+grouped as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) SMYS less than or equal to that of the material specified as API 5L Grade X42;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_22>>
+<<PARAGRAPH>>14
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) SMYS greater than that of the material specified as API 5L Grade X42 but less than that of the material specified
+as API 5L Grade X65;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) for materials with a SMYS greater than or equal to that of the material specified as API 5L Grade X65, each grade
+shall receive a separate qualification test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 1  The groupings specified in 5.4.2.2 do not imply that base materials or filler metals of different analyses within a group
+may be indiscriminately substituted for a material that was used in the qualification test without consideration of the compatibility of
+the base materials and filler metals from the standpoint of metallurgical and mechanical properties and requirements for preheat
+and PWHT.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE 2  When base material with multiple grade markings is being used, the company designates, before using the material, the
+selected single grade to be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.3 Joint Design<<HEADING_END>>
+<<PARAGRAPH>>A major change in joint design (e.g. from V groove to U groove) constitutes an essential variable. Minor changes in
+the angle of bevel or the land of the welding groove are not essential variables.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.4 Position<<HEADING_END>>
+<<PARAGRAPH>>A change in position from roll to fixed, or vice versa, constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.5 Wall Thickness<<HEADING_END>>
+<<PARAGRAPH>>A change from one specified wall thickness range to another constitutes an essential variable. Examples of
+suggested groupings are shown in 6.2.2 e).<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.6 Filler Metal<<HEADING_END>>
+<<PARAGRAPH>>The following changes in filler metal constitute essential variables:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) a change from one filler metal group to another (see Table 1);<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) for Groups 1 through 3 in Table 1, any change in suffix designator except within the group consisting of:<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” no suffix designator,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” -1,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” A1,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” C1, C2, Ce,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” C1L, C2L, C3L,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” M,<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” P1, or P2;<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For example, a change in suffix designator from A1 to B3, or vice versa, constitutes an essential variable. A change
+from A1 to C3, or vice versa, does not constitute an essential variable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) for any filler metals with a G suffix designator only, a change in the manufacturer or trade name;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_23>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+15<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) for materials with a SMYS greater than or equal to that of the material specified as API 5L Grade X65, any change
+in the AWS classification of the filler metal (see 5.4.2.2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Except as indicated items in b) and c) above, changes in filler metal within filler metal groups may be made within the
+material groups specified in 5.4.2.2, items a) and b).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The compatibility of the base material and the filler metal should be considered from the standpoint of mechanical
+properties.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.7 Electrical Characteristics<<HEADING_END>>
+<<PARAGRAPH>>A change from direct current (DC) electrode positive to DC electrode negative, or vice versa, or a change in current
+from DC to alternating current (AC), or vice versa, constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1â€”Filler Metal Groups<<HEADING_END>>
+<<HEADING level=3>>Group
+AWS Specification
+AWS Classification Electrode
+Flux  c<<HEADING_END>>
+<<PARAGRAPH>>A5.1
+E6010, E6011<<PARAGRAPH_END>>
+<<PARAGRAPH>>1<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.5
+E7010, E7011<<PARAGRAPH_END>>
+<<PARAGRAPH>>2
+A5.5
+E8010, E8011, E9010<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.1 or A5.5
+E7015, E7016, E7018<<PARAGRAPH_END>>
+<<PARAGRAPH>>3<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.5
+E8015, E8016, E8018<<PARAGRAPH_END>>
+<<PARAGRAPH>>E9018<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.17
+EL8
+P6XZ<<PARAGRAPH_END>>
+<<PARAGRAPH>>EL8K
+F6X0<<PARAGRAPH_END>>
+<<PARAGRAPH>>EL12
+F6X2<<PARAGRAPH_END>>
+<<PARAGRAPH>>4  a<<PARAGRAPH_END>>
+<<PARAGRAPH>>EM5K
+F7XZ<<PARAGRAPH_END>>
+<<PARAGRAPH>>EM12K
+F7X0<<PARAGRAPH_END>>
+<<PARAGRAPH>>EM13K
+F7X2<<PARAGRAPH_END>>
+<<PARAGRAPH>>EM15K<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.18
+ER70S-2<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.18
+ER70S-6<<PARAGRAPH_END>>
+<<PARAGRAPH>>5  b<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.28
+ER80S-D2<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.28
+ER90S-G<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Group   | AWS Specification   | AWS Classification Electrode   | Flux c   |
+|:--------|:--------------------|:-------------------------------|:---------|
+| 1       | A5.1                | E6010, E6011                   |          |
+|         | A5.5                | E7010, E7011                   |          |
+| 2       | A5.5                | E8010, E8011, E9010            |          |
+| 3       | A5.1 or A5.5        | E7015, E7016, E7018            |          |
+|         | A5.5                | E8015, E8016, E8018            |          |
+|         |                     | E9018                          |          |
+| 4 a     | A5.17               | EL8                            | P6XZ     |
+|         |                     | EL8K                           | F6X0     |
+|         |                     | EL12                           | F6X2     |
+|         |                     | EM5K                           | F7XZ     |
+|         |                     | EM12K                          | F7X0     |
+|         |                     | EM13K                          | F7X2     |
+|         |                     | EM15K                          |          |
+| 5 b     | A5.18               | ER70S-2                        |          |
+|         | A5.18               | ER70S-6                        |          |
+|         | A5.28               | ER80S-D2                       |          |
+|         | A5.28               | ER90S-G                        |          |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_24>>
+<<PARAGRAPH>>16
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 1â€”Filler Metal Groups<<HEADING_END>>
+<<HEADING level=3>>Group
+AWS Specification
+AWS Classification Electrode
+Flux  c<<HEADING_END>>
+<<PARAGRAPH>>6
+A5.2
+RG60, RG65<<PARAGRAPH_END>>
+<<PARAGRAPH>>A5.20
+E61T-GS  d<<PARAGRAPH_END>>
+<<PARAGRAPH>>7<<PARAGRAPH_END>>
+<<PARAGRAPH>>E71T-GS  d<<PARAGRAPH_END>>
+<<PARAGRAPH>>8
+A5.29
+E71T8-K6<<PARAGRAPH_END>>
+<<PARAGRAPH>>9
+A5.29
+E91T8-G<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE  Other electrodes, filler metals, and fluxes may be used but require separate procedure qualification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a
+Any combination of flux and electrode in Group 4 may be used to qualify a procedure. The combination is
+identified by its complete AWS classification number, such as F7A0-EL12 or F6A2-EM12K. Only substitutions that
+result in the same AWS classification number are permitted without requalification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b
+A shielding gas (see 5.4.2.10) is required for use with the electrodes in Group 5.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c
+In the flux designation, the X can be either an A or P for as-welded or postweld heat treated.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d
+For root pass welding only.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.8 Time Between Passes<<HEADING_END>>
+<<PARAGRAPH>>An increase in the maximum time between completion of the root bead and the start of the second bead constitutes
+an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.9 Direction of Welding<<HEADING_END>>
+<<PARAGRAPH>>A change in the direction of welding from vertical downhill to vertical uphill, or vice versa, constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.10 Shielding Gas and Flow Rate<<HEADING_END>>
+<<PARAGRAPH>>A change from one shielding gas to another or from one mixture of gases to another constitutes an essential variable.
+An increase or decrease in the range of flow rates for the shielding gas greater than 20 % of the nominal flow rate
+also constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.11 Shielding Flux<<HEADING_END>>
+<<PARAGRAPH>>Refer to Table 1, Footnote a, for changes in shielding flux that constitute essential variables.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.12 Speed of Travel<<HEADING_END>>
+<<PARAGRAPH>>A change in the range for speed of travel constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.13 Preheat<<HEADING_END>>
+<<PARAGRAPH>>A decrease in the specified minimum preheat temperature constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>5.4.2.14 PWHT<<HEADING_END>>
+<<PARAGRAPH>>The addition of PWHT or a change from the ranges or values specified in the procedure each constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Group                                                                                                           | AWS Specification   | AWS Classification Electrode   | Flux c   |
+|:----------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------|:---------|
+
+<<PAGE_34>>
+<<PARAGRAPH>>26
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>6 Qualification of Welders<<HEADING_END>>
+<<HEADING level=3>>6.1 General<<HEADING_END>>
+<<PARAGRAPH>>The purpose of the welder qualification test is to determine the ability of welders to make sound butt or fillet welds
+using previously qualified procedures. Before any production welding is performed, welders shall be qualified
+according to the applicable requirements of 6.2 through 6.8. It is the intent of this standard that a welder who
+satisfactorily completes the procedure qualification test is a qualified welder, provided the number of test specimens
+required by 6.5 has been removed, tested, and meet the acceptance criteria of 5.6, for each welder.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Prior to starting the qualification tests, the welder shall be allowed reasonable time to adjust the welding equipment to
+be used. The welder shall follow the requirements of the applicable qualified welding procedure specification. The
+qualification of welders shall be conducted in the presence of a representative acceptable to the company.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A welder shall qualify for welding by performing a test on segments of pipe nipples or on full-size pipe nipples, as
+specified in 6.2.1. When segments of pipe nipples are used, they shall be supported so that typical flat, vertical, and
+overhead welds are produced.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The essential variables associated with procedure and welder qualifications are not identical. The essential variables
+for welder qualification are specified in 6.2.2 and 6.3.2.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2 Single Qualification<<HEADING_END>>
+<<HEADING level=3>>6.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>For qualification to a single weld procedure specification, a welder shall make a test weld using a qualified procedure
+to join pipe nipples or segments of pipe nipples. The welder shall make a butt weld in either the rolled or the fixed
+position. When the welder is qualifying in the fixed position, the axis of the pipe shall be horizontal, vertical, or inclined
+from horizontal at an angle of not more than 45Â°.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A welder making a single-qualification test for branch connections, fillet welds, or other similar configurations shall
+follow the specific welding procedure specification.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Changes in the essential variables described in 6.2.2 require requalification of the welder.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The weld shall be acceptable if it meets the requirements of 6.4 and either 6.5 or 6.6.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.2.2 Scope<<HEADING_END>>
+<<PARAGRAPH>>A welder who has successfully completed the qualification test described in 6.2.1 shall be qualified within the limits of
+the essential variables described below. If any of the following essential variables are changed, the welder shall be
+requalified using an applicable qualified procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) A change from one welding process to another welding process or combination of processes, as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) a change from one welding process to a different welding process; or<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) a change in the combination of welding processes, unless the welder has qualified on separate qualification
+tests, using each of the welding processes that are to be used for the combination of welding processes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) A change in the direction of welding from vertical uphill to vertical downhill or vice versa.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_35>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+27<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) A change of filler metal classification from Group 1 or 2 to any other group or from any Group 3 through 9 to
+Group 1 or 2 (see Table 1). A change of filler metal classification not listed in Table 1 to any other filler metal
+classification or vice versa.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) A change from one specified OD group to another. These groups are defined as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) specified OD less than 2.375 in. (60.3 mm),<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) specified OD from 2.375 in. (60.3 mm) through 12.750 in. (323.9 mm),<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) specified OD greater than 12.750 in. (323.9 mm).<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) A change from one specified wall thickness group to another. These groups are defined as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) specified pipe wall thickness less than 0.188 in. (4.8 mm),<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) specified pipe wall thickness from 0.188 in. (4.8 mm) through 0.750 in. (19.1 mm),<<PARAGRAPH_END>>
+<<PARAGRAPH>>3) specified pipe wall thickness greater than 0.750 in. (19.1 mm).<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+A change in position from that for which the welder has already qualified (e.g. a change from rolled to fixed or a
+change from vertical to horizontal or vice versa). A welder who qualifies in the fixed position shall also be qualified
+to perform rolled welds within the essential variables qualified. A welder who qualifies on a butt weld shall also be
+qualified to make lap fillet welds within the essential variables qualified. A welder who successfully passes a butt
+weld qualification test in the fixed position with the axis inclined 45Â° from horizontal shall be qualified to do butt
+welds and lap fillet welds in all positions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) A change in the joint design (e.g. the elimination of a backing strip or a change from V bevel to U bevel).<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3 Multiple Qualification<<HEADING_END>>
+<<HEADING level=3>>6.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>For multiple qualification, a welder shall successfully complete the two tests described below, using qualified
+procedures.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the first test, the welder shall make a butt weld in the fixed position with the axis of the pipe either horizontal or
+inclined from horizontal at an angle of not more than 45Â°. This butt weld shall be made on pipe with an OD of at least
+6.625 in. (168.3 mm) and with a wall thickness of at least 0.250 in. (6.4 mm) without a backing strip. The weld shall be
+acceptable if it meets the requirements of 6.4 and either 6.5 or 6.6. Specimens may be removed from the test weld at
+the locations shown in Figure 12, or they may be selected at the relative locations shown in Figure 12 but without
+reference to the top of the pipe, or they may be selected from locations that are spaced equidistantly around the entire
+pipe circumference. The sequence of adjacent specimen types shall be identical to that shown in Figure 12 for the
+various pipe diameters. Specimens shall not include the longitudinal weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For the second test, the welder shall lay out, cut, fit, and weld a branch-on-pipe connection in which the specified
+diameters of the run and the branch pipes are equal. This test shall be performed with a pipe diameter of at least
+6.625 in. (168.3 mm) and with a specified wall thickness of at least 0.250 in. (6.4 mm). A hole with specified diameter
+approximately equal to the inside diameter (ID) of the branch pipe shall be cut in the run. The weld shall be made with
+the run pipe axis horizontal and the branch pipe axis extending vertically downward from the run pipe.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The completed weld shall exhibit complete penetration around the entire circumference. Completed root beads shall
+not contain any burn-through (BT) of more than  1 / 4  in. (6 mm). The sum of the maximum dimensions of separate
+unrepaired BTs in any continuous 12 in. (300 mm) length of weld shall not exceed  1 / 2  in. (13 mm).<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_36>>
+<<PARAGRAPH>>28
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>Top of pipe<<PARAGRAPH_END>>
+<<PARAGRAPH>>Nick break<<PARAGRAPH_END>>
+<<P
+<<PAGE_37>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+29<<PARAGRAPH_END>>
+<<PARAGRAPH>>Four nick break specimens shall be removed from the weld at the locations shown in Figure 10. They shall be
+prepared and tested in accordance with 5.8.1 and 5.8.2. The exposed surfaces shall meet the requirements of 5.8.3.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.3.2 Scope<<HEADING_END>>
+<<PARAGRAPH>>A welder who has successfully completed the butt weld qualification test described in 6.3.1 on pipe with an OD
+greater than or equal to 12.750 in. (323.9 mm) and a branch weld with pipe and branch having specified ODs greater
+than or equal to 12.750 in. (323.9 mm) in which the specified diameters of the run and branch pipes are equal shall be
+qualified to weld in all positions; on all wall thicknesses, joint designs, and fittings; and on all pipe diameters. A welder
+who has successfully completed the butt weld and branch weld requirements of 6.3.1 on pipe with an OD less than
+12.750 in. (323.9 mm) shall be qualified to weld in all positions; on all wall thicknesses, joint designs, and fittings; and
+on all pipe ODs less than or equal to the OD used by the welder in the qualification tests.<<PARAGRAPH_END>>
+<<PARAGRAPH>>If any of the following essential variables are changed in a welding procedure specification, the welder using the new
+procedure shall be requalified.<<PARAGRAPH_END>>
+<
+<<HEADING level=3>>6.6.1 General<<HEADING_END>>
+<<PARAGRAPH>>At the companyâ€™s option, the qualification butt weld may be examined by radiography or automatic ultrasonic testing
+using a qualified NDT procedure in lieu of the tests specified in 6.5.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.6.2 Inspection Requirements<<HEADING_END>>
+<<PARAGRAPH>>When radiography is utilized, radiographs shall be made of each of the test welds. The welder shall be disqualified if
+any of the test welds do not meet the requirements of 9.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When automatic ultrasonic testing is utilized, each test weld shall be fully examined. The welder shall be disqualified if
+any of the test welds do not meet the requirements of 9.6.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Radiographic testing or automatic ultrasonic testing shall not be used for the purpose of locating sound areas or areas
+that contain imperfections and subsequently making tests of such areas to qualify or disqualify a welder.<<PARAGRAPH_END>>
+<<HEADING level=3>>6.7 Retesting<<HEADING_END>>
+<<PARAGRAPH>>If, in the mutual opinion of the company and the contractorâ€™s representatives, a welder fails to pass the qualification
+test because of unavoidable conditions or conditions beyond the welderâ€™s control, the welder may be given a second
+opportunity to qualify. No further retests shall be given until the welder has submitted proof of subsequent welder
+training that is acceptable to the company.<<PARAGRAPH_END>>
+<<HEADING level=3>>6 Welding<<HEADING_END>>
+<<HEADING level=3>>7.1 General<<HEADING_END>>
+<<PARAGRAPH>>Piping shall be welded by qualified welders using qualified procedures. The surfaces to be welded shall be smooth,
+uniform, and free from laminations, tears, scale, slag, grease, paint, and other deleterious material that might
+adversely affect the welding. The joint design and spacing between abutting ends shall be in accordance with the
+welding procedure specification used.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_40>>
+<<PARAGRAPH>>32
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>7.2 Alignment<<HEADING_END>>
+<<PARAGRAPH>>The alignment of abutting ends shall minimize the offset between surfaces. For pipe ends of the same specified
+thickness, the offset should not exceed  1 / 8  in. (3 mm). Larger variations are permissible provided the variation is
+caused by variations of the pipe end dimensions within the pipe purchase specification tolerances, and such
+variations have been distributed essentially uniformly around the circumference of the pipe. Hammering of the pipe to
+obtain proper lineup should be kept to a minimum.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.3 Use of Lineup Clamp for Butt Welds<<HEADING_END>>
+<<PARAGRAPH>>Lineup clamps shall be used for butt welds in accordance with the welding procedure specification. When it is
+permissible to remove the lineup clamp before the root bead is completed, the completed part of the bead shall be in
+approximately equal segments spaced approximately equally around the circumference of the joint. However, when
+an internal lineup clamp is used and conditions make it difficult to prevent movement of the pipe or if the weld will be
+unduly stressed, the root bead shall be completed before clamp tension is released. Root bead segments used in
+connection with external clamps should be uniformly spaced around the circumference of the pipe and shall have an
+aggregate length of at least 50 % of the pipe circumference before the clamp is removed.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4 Bevel<<HEADING_END>>
+<<HEADING level=3>>7.4.1 Mill Bevel<<HEADING_END>>
+<<PARAGRAPH>>All mill bevels on pipe ends shall conform to the joint design used in the welding procedure specification.<<PARAGRAPH_END>>
+<<HEADING level=3>>7.4.2 Field Bevel<<HEADING_END>>
+<<Pation.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2.7 Repair Area Length<<HEADING_END>>
+<<HEADING level=3>>10.2.7.1 Large Diameter Pipe<<HEADING_END>>
+<<PARAGRAPH>>For pipe with a specified OD greater than or equal to 2.375 in. (60.3 mm), the length of an individual repair area or
+total length of accumulated repair areas within a completed weld for a partial thickness or full thickness repair shall not
+exceed a percentage of weld length determined by the company.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The length of an individual repair area or total length of accumulated repair areas determined by the company should
+be based on sound welding practice and/or engineering analysis of the installation stresses (i.e. combined axial and
+bending) and repair sequence for segmented repairs.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_56>>
+<<PARAGRAPH>>48
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>10.2.7.2 Small Diameter Pipe<<HEADING_END>>
+
+<<HEADING level=3>>10.3.5 Essential Variables<<HEADING_END>>
+<<HEADING level=3>>10.3.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>A repair procedure shall be reestablished as a new repair procedure and shall be requalified when any of the
+essential variables listed in 5.4.2 or the following are changed. Changes other than those given in 5.4.2 or below may
+be made without the need for requalification, provided the repair procedure is revised to show the changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.3.5.2 Location of Excavation<<HEADING_END>>
+<<PARAGRAPH>>Location changes requiring requalification are as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) a change from centerline to fusion line location for excavation of partial thickness repairs,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) a change from centerline to fusion line location for cover pass repairs.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Repair Type                                                                                                         | Tensile    | Nick    | Root   | Face   | Side   | Macro/       | Total       | Charpy   |
+|                                                                                                                     | Strength   | Break   | Bend   | Bend   | Bend   | Hardness b   | (Minimum)   | Impact   |
+|:--------------------------------------------------------------------------------------------------------------------|:-----------|:--------|:-------|:-------|:-------|:-------------|:------------|:---------|
+| Full thickness                                                                                                      | 1          | 1       | 1 a    | 1 a    | 0      | 1            | 5           | Note c   |
+| Internal partial thickness                                                                                          | 1          | 1       | 1 a    | 0      | 0      | 1            | 4           | Note c   |
+| External partial thickness                                                                                          | 1          | 1       | 0      | 1 a    | 0      | 1            | 4           | Note c   |
+| Cover pass                                                                                                          | 0          | 0       | 0      | 1 a    | 0      | 1            | 2           | 0        |
+| Back weld                                                                                                           | 0          | 1       | 1 a    | 0      | 0      | 1            | 3           | 0        |
+| 
+<<PARAGRAPH>>A repair welder who has successfully completed the qualification test described in 10.4.3 shall be qualified within the
+limits of the essential variables described below. If any of the following essential variables are changed, the repair
+welder using a repair procedure shall be requalified:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) any change from one repair type to another, except when changing from a full thickness repair to any partial
+thickness repair;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) a change in filler metal group (see Table 1);<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) an increase in depth of the repair area greater than two times the deposited repair weld thickness in the repair
+welder qualification test;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) a change in position from that for which the repair welder has already qualified (e.g. a change from flat to vertical
+or a change from vertical to horizontal or vice versa), except overhead position qualifies for all positions.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.5 Supervision<<HEADING_END>>
+<<PARAGRAPH>>The repair shall be made under the supervision of an individual acceptable to the company who is experienced and
+knowledgeable in methods and procedures used for repairs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Inspection of repairs shall be performed as specified by the company. Welding inspection personnel shall meet the
+requirements of 8.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>Repairs shall be documented and maintained by the company.<<PARAGRAPH_END>>
+<<HEADING level=3>>10.6 Acceptance Criteria<<HEADING_END>>
+<<PARAGRAPH>>Repaired areas shall be inspected and evaluated by the same NDT methods previously used to determine a defect.
+Visual inspection is considered adequate when the defect was rejected by visual means and repaired by grinding
+without additional welding. NDT of a repair weld includes as a minimum the total repair area plus 10 % of the total
+repair weld length, or 2 in. (50 mm); whichever is longer on each side of the repair area. Repairs shall be considered
+acceptable when the repair area meets the standards of acceptability of Section 9 or more stringent acceptance
+criteria specified by the company.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   A repair weld of a weld originally inspected and rejected using alternative acceptance criteria derived in accordance with
+Annex A must be reinspected and meet the standards of acceptability of Section 9 or more stringent acceptance criteria as
+specified by the company. Repair of the total length of defect(s) rejected by Annex A alternative acceptance criteria is required. A
+partial length repair of a defect is prohibited.<<PARAGRAPH_END>>
+<<HEADING level=3>>11 Procedures for Nondestructive Testing (NDT)<<HEADING_END>>
+<<HEADING level=3>>11.1 Radiographic Test Methods<<HEADING_END>>
+<<HEADING level=3>>11.1.1 General<<HEADING_END>>
+<<PARAGRAPH>>Section 11.1 presents the requirements for producing radiographic images on film or other media through the use of X-
+rays or gamma rays. A detailed procedure for the production of images shall be established and recorded. Radiographic
+film produced by the use of this procedure shall have the density (see 11.1.10), clarity, and contrast required by this
+standard. Images produced by other systems shall have the requisite sensitivity to define clearly the essential wire
+diameter of the proper image quality indicator (IQI). The following criteria shall be used to evaluate images:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) an acceptable image quality that is free from fog and from processing irregularities that could mask the image of
+actual imperfections,<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_64>>
+<<PARAGRAPH>>56
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) the prescribed IQI and the essential wire diameter,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) a satisfactory identification system,<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) an acceptable technique and setup,<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) compatibility with acceptance standards.<<PARAGRAPH_END>>
+<<PARAGRAPH>>All requirements that refer to the quality of the resulting images shall apply equally to X-rays and gamma rays. The
+use of radiographic testing and the frequency of its use shall be at the option of the company.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The company and the radiographic contractor should agree on the radiographic procedure or procedures to be used
+prior to the performance of production radiography. The company shall require the contractor to demonstrate that the
+proposed procedures produce acceptable images and shall require the contractor to use such procedures for
+production radiography.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.2 Details of Procedure<<HEADING_END>>
+<<HEADING level=3>>11.1.2.1 General<<HEADING_END>>
+<<PARAGRAPH>>The details of each radiographic procedure shall be recorded. A copy of the record shall be furnished to the company
+for its records. The record may be in the form of writing, a sketch, or both. As a minimum, each procedure shall
+include the applicable details listed in 11.1.2.2 and 11.1.2.3.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.2.2 Film Radiography<<HEADING_END>>
+<<PARAGRAPH>>As a minimum, the procedure for film radiography shall include the following details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Radiation sourceâ€”The type of radiation source, the size of the effective source or focal spot, and the voltage
+rating of the X-ray equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) Intensifying screensâ€”The type and placement of the screens and, if lead is used, their thickness.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Filmâ€”The film brand or type or both and the number of film in the holder or cassette. For multiple-film techniques,
+the way in which the film is to be viewed shall be specified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) Exposure geometryâ€”Whether single-wall exposure for single-wall viewing (SWE/SWV), double-wall exposure for
+single-wall viewing (DWE/SWV), or double-wall exposure for double-wall viewing (DWE/DWV); the distance from
+the source or focal spot to the film; the relative positions of the film, weld, source, IQIs, and interval or reference
+markers; and the number of exposures required for radiography of a complete weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) Exposure conditionsâ€”Whether milliampere or curie minutes, the X-ray voltage or the input voltage and
+amperage, and the exposure time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+Processingâ€”Whether automatic or manual; the time and temperature for development and the time for stop bath
+or rinsing, fixing, and washing; and drying details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) Materialsâ€”The type and thickness range of material for which the procedure is suitable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) IQIsâ€”The type of material, identifying ASTM or ISO set, and essential wire diameter.<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+Heat shieldsâ€”Material, thickness, and the distance from the film side of the heat shield to the pipe surface.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_65>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+57<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.2.3 Other Imaging Media<<HEADING_END>>
+<<PARAGRAPH>>As a minimum, the procedure for radiography using imaging media other than film shall include the following details.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) Radiation sourceâ€”The type of radiation source, the size of the effective source or focal spot, and the voltage
+rating of the X-ray equipment.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) The image collection system used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) The image processing system used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) The image viewing system used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) The image storage system used.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+Exposure geometryâ€”Whether SWE/SWV, DWE/SWV, or DWE/DWV; whether in motion or still imaging; the
+scanning speed for in motion imaging; the distance from the source or focal spot to the imager surface; the relative
+positions of the imager surface, weld, source, IQIs, and the intervals or reference markers; the amount of
+geometric magnification; the total magnification used for viewing; and the number of images required for
+radiography of a complete weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) Exposure conditionsâ€”Whether milliampere or curie minutes, the X-ray voltage or the input voltage and
+amperage, and when applicable, the exposure time.<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) Materialsâ€”The type and thickness range of material for which the procedure is suitable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+IQIsâ€”The type of material, identifying ASTM or ISO set, and essential wire diameter.<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+Heat shieldsâ€”Material, thickness, and the distance from the imaging side of the heat shield to the pipe surface.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.3 Exposure Geometry<<HEADING_END>>
+<<HEADING level=3>>11.1.3.1 Film Radiography<<HEADING_END>>
+<<PARAGRAPH>>When a radiographic source is centered in the pipe for exposing a butt weld, one exposure is adequate for the
+radiographic testing of the complete weld (SWE/SWV). When the radiographic source is outside but not more than  1 / 2  in.
+(13 mm) from the weld surface, at least three exposures separated by 120Â° shall be made for the radiographic testing of
+a complete weld (DWE/SWV). When the radiographic source is outside and more than  1 / 2  in. (13 mm) from the weld
+surface, at least four exposures separated by 90Â° shall be made for the radiographic testing of a complete weld (DWE/
+SWV). When the OD of the piping containing the weld is 3.500 in. (88.9 mm) or less, a DWE/DWV procedure may be
+used. When this procedure is used and the radiation beam is offset so that the source-side and film-side portions of the
+weld do not overlap in the areas of the radiograph being evaluated, at least two exposures separated by 90Â° shall be
+made for the radiographic testing of a complete weld. When the source-side and film-side portions of the weld are
+superimposed, at least three exposures separated by 60Â° shall be made for the radiographic testing of a complete weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When smaller diameter, thicker wall pipe is radiographed, additional exposures should be made to minimize the
+distortion of imperfection images at the ends of the radiographs.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The minimum distance between the source or focal spot and the source side of the object being radiographed shall
+be determined by the following formula (using constant units of measurement):<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+St k
+=<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_66>>
+<<PARAGRAPH>>58
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>where<<PARAGRAPH_END>>
+<<PARAGRAPH>>D
+is the minimum distance, in inches (mm), between the source or focal spot and the source side of the object
+being radiographed;<<PARAGRAPH_END>>
+<<PARAGRAPH>>S
+is the size, in inches (mm), of the effective source or focal spot;<<PARAGRAPH_END>>
+<<PARAGRAPH>>t
+is the thickness of the weld, in inches (mm), including reinforcement, plus the distance between the film side
+of the weld and the film;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k
+is the geometric unsharpness factor.<<PARAGRAPH_END>>
+<<PARAGRAPH>>When  t  is determined for SWE/SWV and DWE/SWV procedures, the thickness of the single wall and its weld
+reinforcement shall be used. When  t  is determined for DWE/DWV procedures, the OD of the weld (i.e. the OD of the
+pipe plus twice the average height of the weld crown) shall be used;  k  is defined as 0.02 in. (0.5 mm) for material with
+a thickness of less than or equal to 2.000 in. (50.8 mm).<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.3.2 Other Imaging Media<<HEADING_END>>
+<<PARAGRAPH>>For in-motion imaging, the exposure geometry shall be evaluated at the maximum scanning speed to be used during
+the radiographic testing of the complete weld.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.4 Type of IQIs<<HEADING_END>>
+<<PARAGRAPH>>IQIs shall conform to the requirements of either ASTM E747 or ISO 19232-1 wire IQI. The company shall define
+which type of IQI (ASTM or ISO) is to be used. The IQI shall be made of a material that is radiographically similar to
+the material being welded.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.5 Selection of IQIs<<HEADING_END>>
+<<PARAGRAPH>>The IQI shall consist of either a series of six (6) wires for ASTM E747 wire type or a series of seven (7) wires for ISO
+19232-1 wire type IQI, arranged in order of increasing diameter. The essential wire diameter to be used, based on the
+thickness of the weld is shown in Table 8 for ASTM E747 wire type IQI and Table 9 for ISO 19232-1 wire type IQI. At
+the option of the company, smaller wire diameter IQI than those specified above may be used, provided the required
+radiographic sensitivity is obtained. The radiographic images of the IQI identifying style number and ASTM set letter
+or ISO designation shall appear clearly. The image of the essential wire diameter shall appear clearly across the
+entire area of interest.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For purposes of IQI selection, when the SWE/SWV or DWE/SWV technique is used, the thickness of the weld means
+specified wall thickness plus the weld reinforcement (internal plus external combined). When the "elliptical" DWE/DWV technique
+is used, the thickness of the weld means twice the specified wall thickness plus the single weld reinforcement (internal plus
+external combined). When the â€œsuperimposedâ€ DWE/DWV technique is used, the thickness of the weld means twice the specified
+wall thickness plus twice the weld reinforcement (internal plus external combined).<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 8â€”Weld Thickness vs Diameter of ASTM E747 Wire Type IQI<<HEADING_END>>
+<<HEADING level=3>>Weld Thickness
+Essential Wire Diameter<<HEADING_END>>
+<<HEADING level=3>>ASTM Set Letter
+in.
+mm
+in.
+mm<<HEADING_END>>
+<<PARAGRAPH>>0 to 0.250
+0 to 6.4
+0.008
+0.20
+A<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.250 to 0.375
+>6.4 to 9.5
+0.010
+0.25
+A or B<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.375 to 0.500
+>9.5 to 12.7
+0.013
+0.33
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.500 to 0.750
+>12.7 to 19.1
+0.016
+0.41
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.750 to 1.000
+>19.1 to 25.4
+0.020
+0.51
+B<<PARAGRAPH_END>>
+<<PARAGRAPH>>>1.000 to 2.000
+>25.4 to 50.8
+0.025
+0.64
+B<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Weld Thickness   |               | Essential Wire Diameter   |      | ASTM Set Letter   |
+|:-----------------|:--------------|:--------------------------|:-----|:------------------|
+| in.              | mm            | in.                       | mm   |                   |
+| 0 to 0.250       | 0 to 6.4      | 0.008                     | 0.20 | A                 |
+| >0.250 to 0.375  | >6.4 to 9.5   | 0.010                     | 0.25 | A or B            |
+| >0.375 to 0.500  | >9.5 to 12.7  | 0.013                     | 0.33 | B                 |
+| >0.500 to 0.750  | >12.7 to 19.1 | 0.016                     | 0.41 | B                 |
+| >0.750 to 1.000  | >19.1 to 25.4 | 0.020                     | 0.51 | B                 |
+| >1.000 to 2.000  | >25.4 to 50.8 | 0.025                     | 0.64 | B                 |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_67>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+59<<PARAGRAPH_END>>
+<<HEADING level=3>>Table 9â€”Weld Thickness vs Diameter of ISO Wire Type IQI<<HEADING_END>>
+<<HEADING level=3>>Weld Thickness
+Essential Wire Diameter<<HEADING_END>>
+<<HEADING level=3>>Wire Identity
+in.
+mm
+in.
+mm<<HEADING_END>>
+<<PARAGRAPH>>0 to 0.250
+0 to 6.4
+0.008
+0.20
+13<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.250 to 0.375
+>6.4 to 9.5
+0.010
+0.25
+12<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.375 to 0.500
+>9.5 to 12.7
+0.013
+0.33
+11<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.500 to 0.750
+>12.7 to 19.1
+0.016
+0.41
+10<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.750 to 1.000
+>19.1 to 25.4
+0.020
+0.51
+9<<PARAGRAPH_END>>
+<<PARAGRAPH>>>1.000 to 2.000
+>25.4 to 50.8
+0.025
+0.64
+8<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.6 Placement of IQIs<<HEADING_END>>
+<<HEADING level=3>>11.1.6.1 Film<<HEADING_END>>
+<<PARAGRAPH>>The IQIs shall be placed as follows.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) When a complete weld is radiographed in a single exposure using a source inside the piping, at least four IQIs
+placed across the weld and spaced approximately equally around the circumference shall be used. For the DWE/
+DWV procedure, one IQI shall be placed on the source side of the pipe and across the weld so that the essential
+wire image is superimposed onto the weld images. For the DWE/SWV or SWE/SWV procedures requiring
+multiple exposures or multiple films for complete inspection of the weld, and where the length of film to be
+interpreted is greater than 5 in. (130 mm), two IQIs placed across the weld and located on the film side shall be
+used. One shall be within 1 in. (25 mm) of the end of the film length to be interpreted and the other shall be at the
+center of the film. When the film length to be interpreted is 5 in. (130 mm) or less, one IQI shall be placed on the
+film side, across the weld and located at the center of the length to be interpreted. When a repaired weld is
+radiographed, an additional IQI shall be placed across each repaired area.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) When it is not practical to place an IQI on the weld due to weld configuration or size, the IQI may be placed on a
+separate block. Separate blocks shall be made of the same or radiographically similar material and may be used
+to facilitate IQI positioning. The thickness of the separate block material should be the same as the thickness of
+the weld.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) Heat shieldsâ€”IQI may be placed on a heat shield rather than in contact with the pipe, provided that the
+acceptability of such IQI placement is demonstrated during procedure qualification.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.6.2 Other Imaging Media<<HEADING_END>>
+<<PARAGRAPH>>For imaging media other than film, IQI placement shall be the same as that required by 11.1.6.1. The IQI may be
+placed above the surface of the pipe or held in position between the surface of the pipe and the imager by a fixture
+attached to the imager or scanning device. Acceptability of such IQI placement shall be demonstrated during
+procedure qualification.<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.7 Production Radiography<<HEADING_END>>
+<<PARAGRAPH>>Only Level II or III radiographers shall interpret the radiographic images of production welds. Radiographers shall
+report to the company all defects observed in the images unless the company requires that all imperfections observed
+be reported. The radiographer shall indicate whether the weld meets the requirements of Section 9. The company
+shall determine the final disposition of the weld.<<PARAGRAPH_END>>
+<<TABLE_1>>
+| Weld Thickness   |               | Essential Wire Diameter   |      | Wire Identity   |
+|:-----------------|:--------------|:--------------------------|:-----|:----------------|
+| in.              | mm            | in.                       | mm   |                 |
+| 0 to 0.250       | 0 to 6.4      | 0.008                     | 0.20 | 13              |
+| >0.250 to 0.375  | >6.4 to 9.5   | 0.010                     | 0.25 | 12              |
+| >0.375 to 0.500  | >9.5 to 12.7  | 0.013                     | 0.33 | 11              |
+| >0.500 to 0.750  | >12.7 to 19.1 | 0.016                     | 0.41 | 10              |
+| >0.750 to 1.000  | >19.1 to 25.4 | 0.020                     | 0.51 | 9               |
+| >1.000 to 2.000  | >25.4 to 50.8 | 0.025                     | 0.64 | 8               |
+<<TABLE_END>>
+<<PAGE_END>>
+<<PAGE_68>>
+<<PARAGRAPH>>60
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>11.1.8 Identification of Images<<HEADING_END>>fied.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2.15 Shielding Gas and Flow Rate<<HEADING_END>>
+<<PARAGRAPH>>The composition of the shielding gas and the range of flow rates shall be designated.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2.16 Shielding Flux<<HEADING_END>>
+<<PARAGRAPH>>The AWS classification number, if available, or the brand number of the shielding flux shall be designated.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2.17 Speed of Travel<<HEADING_END>>
+<<PARAGRAPH>>The range for speed of travel, in in. (mm) per minute, shall be specified for each pass.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2.18 Method of Cooling After Welding<<HEADING_END>>
+<<PARAGRAPH>>The type of cooling after welding, such as air cooling or forced cooling with water to expedite nondestructive
+examination and joint coating, as well as the maximum metal temperature at which forced cooling is applied.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.4.2.19 Other Factors<<HEADING_END>>
+<<PARAGRAPH>>Other important factors that may be necessary for proper operation of the process or that may affect the quality of the
+work produced shall be designated. These may include the location and angle of arc for submerged arc welding, the
+contact-tube-to-work distance, and the oscillation width and frequency.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_77>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+69<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5 Essential Variables<<HEADING_END>>
+<<HEADING level=3>>12.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>A welding procedure shall be reestablished as a new welding procedure specification and shall be completely
+requalified when any of the essential variables listed in 12.5.2 are changed. Changes other than those listed in 12.5.2
+may be made in the procedure without the need for requalification, provided the welding procedure specification is
+revised to show the changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2 Changes Requiring Requalification<<HEADING_END>>
+<<HEADING level=3>>12.5.2.1 Welding Process<<HEADING_END>>
+<<PARAGRAPH>>A change from the welding process established in the welding procedure specification constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.2 Materials<<HEADING_END>>
+<<PARAGRAPH>>A change in material constitutes an essential variable. For the purposes of this standard, all carbon steels shall be
+grouped as follows:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) SMYS less than or equal to that of the material specified as API 5L Grade X42;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) SMYS greater than that of the material specified as API 5L Grade X42 but less than that of the material specified
+as API 5L Grade X65;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) for carbon steels with a SMYS greater than or equal to that of the material specified as API 5L Grade X65, each
+grade shall receive a separate qualification test.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   The groupings specified above in 12.5.2.2 do not imply that base materials or filler metals of different analyses within a
+group may be indiscriminately substituted for a material that was used in the qualification test without consideration of the
+compatibility of the base materials and filler metals from the standpoint of metallurgical and mechanical properties and
+requirements for preheat and PWHT.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.3 Joint Design<<HEADING_END>>
+<<PARAGRAPH>>A major change in joint design (e.g. from V groove to U groove) or any change beyond the range established in the
+welding procedure specification for such factors as spacing, root face, and angle of bevel constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.4 Wall Thickness<<HEADING_END>>
+<<PARAGRAPH>>A change in specified wall thickness beyond the range established in the welding procedure specification constitutes
+an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.5 Pipe Diameter<<HEADING_END>>
+<<PARAGRAPH>>A change in pipe specified OD beyond the range established in the welding procedure specification constitutes an
+essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.6 Filler Metal<<HEADING_END>>
+<<PARAGRAPH>>The following changes in filler metal constitute essential variables:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) a change from one filler metal group to another (see Table 1);<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_78>>
+<<PARAGRAPH>>70
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) for any filler metals with a G suffix designator only, a change in the manufacturer or trade name;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) for pipe materials with a SMYS greater than or equal to that of the material specified as API 5L Grade X65, any
+change in the AWS classification of the filler metal (see 12.5.2.2).<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Except as indicated in item b) above, changes in filler metal may be made within the groups specified in 12.5.2.2,
+Items a) and b).<<PARAGRAPH_END>>
+<<PARAGRAPH>>The compatibility of the base material and the filler metal should be considered from the standpoint of mechanical
+properties.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.7 Size of Filler Metal Wire<<HEADING_END>>
+<<PARAGRAPH>>A change in the size of the filler metal wire constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.8 Time Between Passes<<HEADING_END>>
+<<PARAGRAPH>>An increase in the maximum time between completion of the root bead and the start of the second bead constitutes
+an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.9 Direction of Welding<<HEADING_END>>
+<<PARAGRAPH>>A change in the direction of welding from vertical uphill to vertical downhill, or vice versa, constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.10 Shielding Gas and Flow Rate<<HEADING_END>>
+<<PARAGRAPH>>A change from one shielding gas to another or from one mixture of gases to another constitutes an essential variable.
+An increase or decrease in the range of flow rates established for the shielding gas also constitutes an essential
+variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.11 Shielding Flux<<HEADING_END>>
+<<PARAGRAPH>>Refer to Table 1, Footnote a, for changes in shielding flux that constitute essential variables.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.12 Speed of Travel<<HEADING_END>>
+<<PARAGRAPH>>A change in the range for speed of travel constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.13 Preheat<<HEADING_END>>
+<<PARAGRAPH>>A decrease in the specified minimum preheat temperature constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.14 PWHT<<HEADING_END>>
+<<PARAGRAPH>>The addition of PWHT or a change from the ranges or values specified in the procedure shall each constitute an
+essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.15 Electrical Characteristics<<HEADING_END>>
+<<PARAGRAPH>>A change in electrical characteristics constitutes an essential variable.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_79>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+71<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.16 Orifice Diameter or Orifice Gas Composition<<HEADING_END>>
+<<PARAGRAPH>>For plasma arc welding, a change in orifice gas nominal composition or a change in orifice diameter.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.5.2.17 Method of Cooling After Welding<<HEADING_END>>
+<<PARAGRAPH>>An increase in the maximum weld temperature prior to forced cooling. A change in the method of cooling after
+welding resulting in a higher rate of cooling also requires requalification of the welding procedure.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.6 Qualification of Welding Equipment and Operators<<HEADING_END>>
+<<HEADING level=3>>12.6.1 General<<HEADING_END>>
+<<PARAGRAPH>>Each welding operator shall be qualified by producing an acceptable weld using the qualified welding procedure. The
+completed weld shall be tested by destructive methods, nondestructive methods, or both, and shall meet the
+requirements of 6.4 through 6.7 except nick breaks (see 6.5.4) shall not be required. Should a welding procedure
+qualification utilize a manual or semiautomatic pass as outlined in 12.1, the nick break test in 5.6.4 shall be required
+as part of the welding operator qualification. The tensile strength tests shall not be replaced by nick break tests (see
+6.5.2) and thus omitted. Prior to the start of welding, each welding operator shall have received adequate training in
+the operation of the welding equipment. If the welding procedure involves more than one operation, welding operators
+shall be qualified on the type of welding equipment that will be used in production welding. Changes in the essential
+variables described in 12.6.2 require requalification of the welding operator.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.6.2 Changes Requiring Requalification<<HEADING_END>>
+<<PARAGRAPH>>Changes in the following essential variables require requalification of the welding operator.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) A change from one welding process, mode of transfer, polarity or method of application to another welding
+process or combination of processes (e.g. short arc, pulse arc, spray arc, gas tungsten arc, etc.).<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) A change in the direction of welding from vertical uphill to vertical downhill or vice versa.<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) A change in the filler metal type (solid wire, metal core, flux core).<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) A change from one specified OD group to another:<<PARAGRAPH_END>>
+<<PARAGRAPH>>1) OD less than 12.75 in (323.9 mm),<<PARAGRAPH_END>>
+<<PARAGRAPH>>2) OD equal to or greater than 12.75 in. (323.9 mm).<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) Welding operator shall qualify on the heaviest specified wall thickness that the welder/operator will weld in
+production.<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+A change in position from that for which the welder/operator has already qualified (e.g. a change from rolled to
+fixed or a change from vertical to horizontal). A welder who qualifies in the fixed position shall also be qualified to
+perform rolled welds within the essential variables qualified.<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) A change in welding bug manufacturer or model.<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) A change in the method of applying the root bead (e.g. external root versus internal root).<<PARAGRAPH_END>>
+<<PARAGRAPH>>i)
+A major change in joint design (e.g. from a V groove to a U groove or J groove) or any change beyond the range
+established for such factors as spacing, root face, and angle of bevel constitutes an essential variable.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_80>>
+<<PARAGRAPH>>72
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+At the option of the company, welders/operators whose work is limited to specific weld passes in a multipass butt
+weld shall qualify by demonstrating their ability to weld those specific passes in accordance with a qualified
+welding procedure specification, with the other weld passes necessary to make complete welds being made by
+others. Welders shall be qualified if all tests are acceptable.<<PARAGRAPH_END>>
+<<HEADING level=3>>12.7 Records of Qualified Operators<<HEADING_END>>
+<<PARAGRAPH>>A record shall be made of the tests required by 12.6 and of the detailed results of each test. A form similar to that
+shown in Figure 2 should be used. (This form should be developed to suit the needs of the company but must be
+sufficiently detailed to demonstrate that the qualification test meets the requirements of this standard.) A list of
+qualified operators and the procedures for which they are qualified shall be maintained. An operator may be required
+to requalify if a question arises about their competence.<<PARAGRAPH_END>>
+
+range of welding voltage, which shall be recorded on a strip chart;<<PARAGRAPH_END>>
+<<PARAGRAPH>>j)
+range of welding amperage, which shall be recorded on a strip chart;<<PARAGRAPH_END>>
+<<PARAGRAPH>>k) range of axial speed, which shall be recorded on a strip chart;<<PARAGRAPH_END>>
+<<PARAGRAPH>>l)
+time intervals in weld cycle, which shall be identified and recorded on a strip chart;<<PARAGRAPH_END>>
+<<PARAGRAPH>>m) range of upset stroke, which shall be recorded on a strip chart;<<PARAGRAPH_END>>
+<<PARAGRAPH>>n) time delay before removal of clamps;<<PARAGRAPH_END>>
+<<PARAGRAPH>>o) method of removing internal flash;<<PARAGRAPH_END>>
+<<PARAGRAPH>>p) method of removing external flash;<<PARAGRAPH_END>>
+<<PARAGRAPH>>q) requirements for PWHT, including heating time, maximum temperature, time of temperature, method of
+determining heating around circumference, and cooling rate.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5 Essential Variables<<HEADING_END>>
+<<HEADING level=3>>13.5.1 General<<HEADING_END>>
+<<PARAGRAPH>>A welding procedure shall be reestablished as a new welding procedure specification and shall be completely
+requalified when any of the essential variables listed in 13.5.2 are changed. Changes other than those given in 13.5.2
+may be made in the procedure without the need for requalification, provided the welding procedure specification is
+revised to show the changes.<<PARAGRAPH_END>>
+<<HEADING level=3>>13.5.2 Changes Requiring Requalification<<HEADING_END>>
+<<PARAGRAPH>>A change in any of the factors listed in Items a) through k) below constitutes an essential variable:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) pipe material;<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) specified pipe wall thickness or specified OD;<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) pipe preparation dimensions;<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) welding position;<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) requirements for preheat treatment;<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+welding voltage tolerances;<<PARAGRAPH_END>>
+<<PARAGRAPH>>g) welding current tolerances;<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_86>>
+<<PARAGRAPH>>78
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<PARAGRAPH>>h) axial speed tolerances;<<PARAGRAPH_END>>
+<<PARAance limits for imperfections.<<PARAGRAPH_END>>
+<<PARAGRAPH>>It is usually impractical to qualify individual pipeline welds for the alternative acceptance limits after a defect under
+Section 9 is detected, because destructive testing is required to establish the required mechanical properties for the
+welding procedure under consideration.<<PARAGRAPH_END>>
+<<PARAGRAPH>>This annex provides procedures to determine the maximum allowable imperfection sizes. It does not prevent the use
+of Section 9 for determining imperfection acceptance limits for any weld. Use of this annex is completely at the
+companyâ€™s option.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In this annex, the use of the phrase imperfection acceptance limits and other phrases containing the word
+imperfection is not intended to imply a defective condition or any lack of weld integrity. All welds contain certain
+features variously described as artifacts, imperfections, discontinuities, or flaws. These terms are widely accepted
+and used interchangeably. The primary purpose of this annex is to define, on the basis of a technical analysis, the
+effect of various types, sizes, and shapes of such anomalies on the suitability of the whole weld for a specific service.<<PARAGRAPH_END>>
+<<PARAGRAPH>>7
+Y.-Y. Wang and M. Liu, â€œA Comprehensive Update in the Evaluation of Pipeline Weld Defects,â€ U.S. DOT Agreement
+No. DTRS56-03-T-0008, PRCI Contract No. PR-276-04503, draft report to DOT and PRCI, November 2004.<<PARAGRAPH_END>>
+<<PARAGRAPH>>80<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_89>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+81<<PARAGRAPH_END>>
+<<PARAGRAPH>>This use of this annex is restricted to the following conditions:<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” circumferential welds between pipes of equal specified wall thickness;<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” nondestructive inspection performed for essentially all welds;<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” no gross weld strength undermatching, see A.3.2.1;<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” maximum axial design stress no greater than the SMYS;<<PARAGRAPH_END>>
+<<PARAGRAPH>>â€” maximum axial design strain no greater than 0.5 %;<<PARAGRAPH_END>>
+<n strong hydroxides, nitrates, or carbonates. When these materials are present
+inside the pipe, a minimum threshold stress shall be established, and this annex shall not be used if the calculated stress
+exceeds the threshold value. With respect to H 2 S service, the definition of such service shall be that given in
+NACE MR0175. Although external exposure to carbonates and nitrates in the soil has been shown to produce stress
+corrosion cracking (SCC) in a small number of cases, the cracking is normally axial and is associated with
+circumferential stress rather than axial stress. However, circumferential SCC failures may occur at locations where
+longitudinal stresses have increased over the life of the pipeline, for example, at overbends above unstable slopes.<<PARAGRAPH_END>>
+<<PARAGRAPH>>The frequency and severity of SCC can be mitigated by the use of proper coating and proper cathodic protection. The
+use of this annex is not precluded when direct exposure to the aggressive environment is prevented by a coating
+designed to resist the environment.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.4 Dynamic Loading<<HEADING_END>>
+<<PARAGRAPH>>The stress analysis shall include consideration of potential dynamic loading on girth welds, such as loads from
+closure of check valves. This annex does not apply to welds strained at a strain rate greater than 10 â€“3  second (a
+stress rate of 30 ksi/sec for steel).<<PARAGRAPH_END>>
+<<PARAGRAPH>>11  The implied safety factor in the fatigue spectrum severity limit for Options 1 and 2 varies, depending on, for example, the pipe
+wall thickness and distribution of fatigue spectrum. For a wide range of onshore and offshore pipeline scenarios, the spectrum
+severity limit is estimated to provide a safety factor of more than 2 or 5 on cycles when the fatigue growth rates are based on
+mean+2 standard deviation or mean values of BS 7910 (Table 4,  R  > 0.5), respectively.
+12  Options 1 and 2 provide an adequate safety factor against fracture due to moderate cyclic loading provided aforementioned
+â€œsteel-in-airâ€ curve is applicable. In other environments, for example, when determining allowable defect sizes at the OD of an
+offshore pipeline with fusion-bonded epoxy field joint coating and under cathodic protection, use of the â€œsteel-in-airâ€ curve is not
+appropriate and use of Option 1 or 2 may not be sufficiently conservative. Similarly, if cyclic loading exceeds the defined
+spectrum severity of 5 Ã— 10 6 , for example, due to cyclic stresses from offshore installation loads on a pipe lay stinger, use of
+Option 1 or 2 may also not be sufficiently conservative.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_91>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+83<<PARAGRAPH_END>>
+<<HEADING level=3>>A.2.5 Residual Stress<<HEADING_END>>
+<<PARAGRAPH>>The effects of welding residual stress are accounted for by specifying minimum CTOD toughness and Charpy energy
+and by incorporating appropriate safety factor in Options 1 and 2 procedures (A.5.1.3 and A.5.1.4). The determination
+of residual stress is not required under these conditions. The effects of residual stress shall be evaluated for all time-
+dependent failure mechanisms, such as fatigue.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3 Welding Procedure<<HEADING_END>>
+<<HEADING level=3>>A.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>The controls of the variables necessary to ensure an acceptable level of fracture toughness in a welding procedure
+are more stringent than those controlling welding procedures without minimum toughness requirements. An
+appropriate quality control program shall be established to ensure welding is performed within the parameters of the
+qualified welding procedure. Qualification of welding procedures to be used with this annex shall be in accordance
+with Section 5 or Section 12 of this standard, with the additional mechanical property testing in accordance with A.3.4.<<PARAGRAPH_END>>
+<<HEADING level=3>>A.3.2 Essential Variables<<HEADING_END>>
+<<PARAGRAPH>>Any change in the essential variables specified below shall require requalification of the welding procedure.<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) A change in the welding process, mode of arc transfer, or method of application.<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) A change in any of the following:<<PARAGRAPH_END>>
+<<PARAGRAPH>>For in-service welds, the carbon equivalent  21  of the materials to which the procedure applies should be identified in
+addition to SMYS. Carbon equivalent levels may be grouped.<<PARAGRAPH_END>>
+<<PARAGRAPH>>[paragraph deleted]<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.2.1.2 Pipeline Operating Conditions<<HEADING_END>>
+<<PARAGRAPH>>For in-service welds, the pipeline operating conditions (pipe contents, flow rate, etc.) for which the procedure applies
+should be identified. Conditions may be grouped.<<PARAGRAPH_END>>
+<<PARAGRAPH>>21  CEIIW = %C + %Mn/6 + (%Cu + %Ni)/15 + (%Cr + %Mo + %V)/5.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_112>>
+<<PARAGRAPH>>104
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.2.1.3 Heat Input Range<<HEADING_END>>
+<<PARAGRAPH>>For procedures intended to overcome the effect of heat removal by the flowing contents by using a sufficiently high
+heat input level  22  (heat input control procedures), the required heat input range should be specified. For procedures
+intended to overcome the effect of heat removal by the flowing contents by using temper bead deposition sequence
+(temper bead procedures), the required heat input range for each layer should be specified.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.2.1.4 Weld Deposition Sequence<<HEADING_END>>
+<<PARAGRAPH>>For procedures intended to overcome the effect of heat removal by the flowing contents by using temper bead
+deposition sequence (temper bead procedures), the required weld deposition sequence should be specified. The weld
+deposition sequence should include tolerances for bead spacing to assure proper tempering of the previous passes.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3 Essential Variables<<HEADING_END>>
+<<HEADING level=3>>B.2.3.1 Changes Requiring Requalification<<HEADING_END>>
+<<HEADING level=3>>B.2.3.1.1 Materials<<HEADING_END>>
+<<PARAGRAPH>>For in-service fillet welds, SMYS is not an essential variable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For in-service welds other than fillet welds, the strength of the completed weld meets or exceeds the specified minimum
+strength of the pipe and fitting material.<<PARAGRAPH_END>>
+<<PARAGRAPH>>An increase in the carbon equivalent above that of the material used for procedure qualification constitutes an
+essential variable, except as provided below.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A procedure may be used for higher carbon equivalent materials than the material used for procedure qualification
+provided that the thermal conditions are less severe than the procedure qualification conditions and no increase in the
+risk of hydrogen cracking results.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3.1.2 Pipeline Operating Conditions<<HEADING_END>>
+<<PARAGRAPH>>For in-service welds, an increase in the severity of the pipeline operating conditions (in terms of weld cooling rates)
+above the group qualified constitutes an essential variable.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3.1.3 Pipe Wall Thickness<<HEADING_END>>
+<<PARAGRAPH>>For in-service fillet welds, wall thickness is not an essential variable. However, wall thickness of the materials being
+welded should be considered when considering the thermal severity of the pipeline operating conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For weld deposition repairs, the qualified welding procedure is not used on a remaining pipe wall thickness less than
+what was used during qualification.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.3.1.4 Weld Deposition Sequence<<HEADING_END>>
+<<PARAGRAPH>>A change from a deposition sequence that relies on tempering to some other deposition sequence constitutes an
+essential variable. For a deposition sequence that relies on tempering, a change in the bead spacing beyond the
+limits in the welding procedure specification constitutes an essential variable.<<PARAGRAPH_END>>
+<<PARAGRAPH>>22  Heat Input (kJ/in.) = (Amps  Ã—  Volts  Ã—  60)/[Travel Speed (in./min)  Ã—  1000], or Heat Input (kJ/mm) = (Amps  Ã—  Volts  Ã—  60)/[Travel
+speed (mm/min)  Ã—  1000)].<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_113>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+105<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.4 Welding of Test Joints<<HEADING_END>>
+<<HEADING level=3>>B.2.4.1 General<<HEADING_END>>
+<<PARAGRAPH>>Pipeline operating conditions that affect the ability of the flowing contents to remove heat from the pipe wall should be
+simulated while test joints are being made.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Filling the test section with water and allowing water to flow through the test section while the test joint is being made has
+been shown to produce thermal conditions equivalent to or more severe than typical in-service welding applications (see
+Figure B.2). Procedures qualified under these conditions are therefore suitable for any typical in-service application. Other media
+(e.g. motor oil) may be used to simulate less severe thermal conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>V
+H<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fluid out<<PARAGRAPH_END>>
+<<PARAGRAPH>>End plate<<PARAGRAPH_END>>
+<<PARAGRAPH>>Support
+post
+45Âº Â±5Âº<<PARAGRAPH_END>>
+<<PARAGRAPH>>Fluid in<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   For a single in-service welder qualification, this test qualifies the welder for all positions.
+Tests may be performed in other positions which will qualify the welder for that position only.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure B.2â€”Suggested Procedure and Welder Qualification Test Assembly<<HEADING_END>>
+<<HEADING level=3>>B.2.4.2 Branch and Sleeve Welds<<HEADING_END>>
+<<PARAGRAPH>>The requirements in 5.7 for branch and sleeve welds are appropriate for in-service welding.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_114>>
+<<PARAGRAPH>>106
+API S TANDARD  1104<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.4.3 Weld Deposition Repairs<<HEADING_END>>
+<<PARAGRAPH>>Weld deposition repairs should be deposited on a section of pipe containing simulated wall loss. The area of
+simulated wall loss should be of sufficient size to remove all the required tests specimens and may consist of a single
+larger area or multiple smaller areas (see B.2.5.1). Other specimen layouts may be used at the discretion of the
+company. The remaining wall thickness of the simulated wall loss should be no greater than the minimum value
+specified in the welding procedure specification. Weld deposition repairs should be deposited in such a way that the
+original wall thickness is completely restored.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.2.5 Testing of Welded Joints<<HEADING_END>>
+ot flattened prior to testing.
+3. Where wall thickness is greater than 0.500 in. (12.7 mm), it may be reduced to 0.500 in. (12.7 mm) by machining the inside surface.
+4. In lieu of taking separate specimens for the face bend test, the remaining portion of the nick-break specimens may be used.<<PARAGRAPH_END>>
+<<HEADING level=3>>Figure B.6â€”Face Bend Test Specimen<<HEADING_END>>
+<<HEADING level=3>>B.3 In-service Welder Qualification<<HEADING_END>>
+<<HEADING level=3>>B.3.1 General<<HEADING_END>>
+<<PARAGRAPH>>For in-service welding, the welder should be qualified to apply the specific procedure being used according to the
+requirements of 6.2, except for the alternative/additional requirements specified in this annex.<<PARAGRAPH_END>>
+<<PARAGRAPH>>A welder qualified on pipe having an OD of less than 12.750 in. (323.9 mm) should be qualified for all diameters less
+than or equal to the diameter used in the qualification test. A welder qualified on pipe having an OD of greater than or
+equal to 12.750 in. (323.9 mm) should be qualified for all pipe diameters. A welder who has an existing multiple
+qualification to 6.3 and an in-service qualification to B.3 should be qualified as an in-service branch or sleeve welder
+for all positions, all diameters, and all wall thicknesses within the limits of the essential variables in 6.3.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For weld deposition repairs, welders who perform test welds on the bottom of the pipe are qualified for welding in all
+positions. Welders who perform test welds on the side of the pipe are qualified for welding only on the side and top of
+the pipe. Welders who perform test welds on the top of the pipe are qualified for welding only on the top of the pipe.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.2 Welding of Test Joint<<HEADING_END>>
+<<PARAGRAPH>>For in-service welding, pipeline operating conditions that affect the ability of the flowing contents to remove heat from
+the pipe wall should be simulated while test joints are being made.<<PARAGRAPH_END>>
+<<PARAGRAPH>>NOTE   Filling the test section with water and allowing water to flow through the test section while the test joint is being made has
+been shown to produce thermal conditions equivalent to or more severe than typical in-service welding applications (see<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_119>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+111<<PARAGRAPH_END>>
+<<PARAGRAPH>>Figure B.2). Welders qualified under these conditions are therefore qualified for any typical in-service application. Other media
+(e.g. motor oil) may be used to simulate less severe thermal conditions.<<PARAGRAPH_END>>
+<<PARAGRAPH>>In addition to making the test joint used for the destructive testing described in B.3.3, the welder should demonstrate
+to the satisfaction of the company the ability to comply with aspects of the welding procedure specification that are
+intended to avoid the development of crack-susceptible microstructures and/or prevention of burn-through. For
+example, for heat input control procedures, the company may choose to require the welder to demonstrate the ability
+to maintain a heat input level within the range specified in the welding procedure specification. For temper bead and
+weld deposition repair procedures, the company may choose to require the welder to demonstrate bead placement
+within the dimensional tolerances specified in the welding procedure specification and the ability to maintain a heat
+input level within the range specified in the welding procedure specification.<<PARAGRAPH_END>>
+<<HEADING level=3>>B.3.3 Testing of Welded Joints<<HEADING_END>>
+<<PARAGRAPH>>The weld should be tested and considered to be acceptable if it meets the requirements of 6.4 and 6.5. For
+longitudinal seam welds, the minimum number of specimens and the tests to which they should be subjected is
+shown in Table B.2. For weld deposition welders, the minimum number of specimens and tests to which they should
+be subjected is shown in Table B.1.<<PARAGRAPH_END>>
+<<HEADING level=3>>Table B.2â€”Type and Number of Test Specimens for Longitudinal Seam Weldsâ€”Welder Qualification Test<<HEADING_END>>
+<<HEADING level=3>>Number of Specimens<<HEADING_END>>
+<<HEADING level=3>>Wall Thickness
+Tensile<<HEADING_END>>
+<<HEADING level=3>>Nick Break
+Root Bend
+Face Bend
+Side Bend
+Total<<HEADING_END>>
+<<PARAGRAPH>>â‰¤ 0.500 in. (12.7 mm)
+1
+1
+1
+1
+4<<PARAGRAPH_END>>
+<<PARAGRAPH>>>0.500 in. (12.7 mm)
+1
+1
+2
+<<HEADING level=3>>C.2.4 Content<<HEADING_END>>
+<<PARAGRAPH>>The inquiry should be concise, yet complete, to enable the Committee to quickly and fully understand the point of the
+inquiry. Omit superfluous background information. The inquiry should be technically and editorially correct. If the point
+of the inquiry is to obtain an interpretation, the inquiry shall be stated in such a manner that the response to the inquiry
+is either â€œyesâ€ or â€œnoâ€.  The Committee shall not address inquiries that pose questions of â€œhowâ€ or â€œwhyâ€. If the point of
+the inquiry is to obtain a revision of the standard, the inquiry shall provide technical justification for that revision.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.5 Proposed Reply<<HEADING_END>>
+<<PARAGRAPH>>A request for interpretation may include a proposed reply, stating a believed interpretation of the requirements of the
+provision in question, or recommended wording for a revision.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.6 Additional/New Proposed Processes<<HEADING_END>>
+<<PARAGRAPH>>Processes other than those described in this document can be considered for inclusion in this standard. Persons who
+wish to have other processes included shall submit, as a minimum, the following information for the committeeâ€™s
+consideration:<<PARAGRAPH_END>>
+<<PARAGRAPH>>a) a description of the welding process,<<PARAGRAPH_END>>
+<<PARAGRAPH>>b) a proposal on the essential variables,<<PARAGRAPH_END>>
+<<PARAGRAPH>>c) a welding procedure specification,<<PARAGRAPH_END>>
+<<PARAGRAPH>>d) weld inspection methods,<<PARAGRAPH_END>>
+<<PARAGRAPH>>e) types of weld imperfections and their proposed acceptance limits,<<PARAGRAPH_END>>
+<<PARAGRAPH>>f)
+repair procedures.<<PARAGRAPH_END>>
+<<HEADING level=3>>C.2.7 Response Time by the Committee<<HEADING_END>>
+<<PARAGRAPH>>The Committee shall review and provide a response to a request for interpretation as quickly as possible.  The
+Committee shall review the requests in the order they were received by the API.   However, since some responses
+may require input from several sources, a response may take up to one year to formulate and issue to the inquirer.
+The Committee shall not accelerate this process in order to meet a deadline or schedule requirement of the inquirer.
+The inquirer should take into consideration this time frame.<<PARAGRAPH_END>>
+<<PARAGRAPH>>For proposals of revision that are submitted, the Committee shall determine the need for immediate change to/
+inclusion in the document (an Addendum) or if the revision may be delayed until the next overall edition of the
+document is published.<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_127>>
+<<PARAGRAPH>>W ELDING   OF  P IPELINES   AND  R ELATED  F ACILITIES
+119<<PARAGRAPH_END>>
+<<PAGE_END>>
+<<PAGE_128>>
+<<PAGE_END>>
+<<PAGE_129>>
+<<HEADING level=3>>Product No. D110421<<HEADING_END>>
+<<PAGE_END>>
+<<SECTION_START:METADATA>>
+Document Type: Digital
+Total Pages: 129
+Total Images: 12
+
+Image Reference Table:
+[IMAGE_1] Page: 59, Size: 1240x826
+[IMAGE_2] Page: 59, Size: 1240x826
+[IMAGE_3] Page: 60, Size: 1240x722
+[IMAGE_4] Page: 60, Size: 1240x722
+[IMAGE_5] Page: 61, Size: 374x730
+[IMAGE_6] Page: 61, Size: 374x730
+[IMAGE_7] Page: 96, Size: 575x153
+[IMAGE_8] Page: 96, Size: 575x153
+[IMAGE_9] Page: 109, Size: 362x84
+[IMAGE_10] Page: 109, Size: 362x84
+[IMAGE_11] Page: 109, Size: 362x84
+[IMAGE_12] Page: 109, Size: 362x84
+
+Total Tables: 62
